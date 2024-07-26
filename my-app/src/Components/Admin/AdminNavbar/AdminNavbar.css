@@ -1,0 +1,15 @@
+.adminNavbar {
+    background-color: gold;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+}
+
+
+.nav-menu li:active {
+    font-weight: 700;
+}
+
+.nav-menu {
+    font-size: 30px;
+}

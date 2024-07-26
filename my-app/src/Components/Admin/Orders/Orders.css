@@ -1,0 +1,27 @@
+.orders {
+    background-color: darkgoldenrod;
+    margin: 0 auto;
+    width: 100%;
+    font-size: 30px;
+    height: fit-content;
+}
+
+.order-item {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.order-item p {
+    margin: 5px 0;
+    font-weight: 700;
+}
+
+.order-item ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.order-item li {
+    margin: 5px 0;
+}
